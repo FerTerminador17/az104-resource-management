@@ -528,4 +528,4 @@ az104-resource-management/
 
 ---
 
-*Laboratório realizado para estudo da certificação **AZ-104** — Resource Management. Todos os recursos foram excluídos ao final do laboratório.*
+*Laboratório realizado para estudo da certificação **AZ-104** — Resource Management. Todos os recursos foram excluídos ao final do laboratório.*# az104-resource-management
